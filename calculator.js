@@ -5,6 +5,7 @@ class calculator {
 
 	subtract(x, y) {
 		// TODO: implement subtract method
+		return(x-y);
 	}
 
 	multiply(x, y) {
